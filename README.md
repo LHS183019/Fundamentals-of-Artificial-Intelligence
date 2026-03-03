@@ -6,7 +6,7 @@
 
  $~$  |内容
 ---|---
-hw1| 人工智能基础作业一
+hw1| 基本概念：贝叶斯定理, MLE/MAP, 先验分布, 分类/回归, 监督/无监督, 线性回归/逻辑回归, 最小二乘/梯度下降, 超参数, 交叉验证, ...
 lab1| 基于Numpy和PyTorch的MLP实现 (MNIST)
 lab2| 卷积神经网络CNN与ResNet20架构 (CIFAR-10)
 lab3| 生成对抗网络DCGAN (MNIST)
