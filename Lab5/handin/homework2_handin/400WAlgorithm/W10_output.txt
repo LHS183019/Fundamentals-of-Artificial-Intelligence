@@ -1,0 +1,5 @@
+spend time: 0.016661
+spend time: 0.014358
+spend time: 0.010091
+spend time: 0.012419
+spend time: 0.013746

@@ -1,0 +1,1421 @@
+<begin>
+Failed search: 0
+Value: 19897
+<end>
+<begin>
+Failed search: 1
+Value: 19898
+<end>
+<begin>
+Failed search: 2
+Value: 19899
+<end>
+<begin>
+Failed search: 3
+Value: 19897
+<end>
+<begin>
+Failed search: 4
+Value: 19898
+<end>
+<begin>
+Failed search: 5
+Value: 19897
+<end>
+<begin>
+Failed search: 6
+Value: 19898
+<end>
+<begin>
+Failed search: 7
+Value: 19899
+<end>
+<begin>
+Failed search: 8
+Value: 19897
+<end>
+<begin>
+Failed search: 9
+Value: 19897
+<end>
+<begin>
+Failed search: 10
+Value: 19899
+<end>
+<begin>
+Failed search: 11
+Value: 19895
+<end>
+<begin>
+Failed search: 12
+Value: 19897
+<end>
+<begin>
+Failed search: 13
+Value: 19896
+<end>
+<begin>
+Failed search: 14
+Value: 19896
+<end>
+<begin>
+Failed search: 15
+Value: 19898
+<end>
+<begin>
+Failed search: 16
+Value: 19895
+<end>
+<begin>
+Failed search: 17
+Value: 19898
+<end>
+<begin>
+Failed search: 18
+Value: 19898
+<end>
+<begin>
+Failed search: 19
+Value: 19897
+<end>
+<begin>
+Failed search: 20
+Value: 19897
+<end>
+<begin>
+Failed search: 21
+Value: 19897
+<end>
+<begin>
+Failed search: 22
+Value: 19897
+<end>
+<begin>
+Failed search: 23
+Value: 19897
+<end>
+<begin>
+Failed search: 24
+Value: 19895
+<end>
+<begin>
+Failed search: 25
+Value: 19898
+<end>
+<begin>
+Failed search: 26
+Value: 19898
+<end>
+<begin>
+Failed search: 27
+Value: 19897
+<end>
+<begin>
+Failed search: 28
+Value: 19893
+<end>
+<begin>
+Failed search: 29
+Value: 19898
+<end>
+<begin>
+Failed search: 30
+Value: 19897
+<end>
+<begin>
+Failed search: 31
+Value: 19898
+<end>
+<begin>
+Failed search: 32
+Value: 19894
+<end>
+<begin>
+Failed search: 33
+Value: 19898
+<end>
+<begin>
+Failed search: 34
+Value: 19895
+<end>
+<begin>
+Failed search: 35
+Value: 19895
+<end>
+<begin>
+Failed search: 36
+Value: 19898
+<end>
+<begin>
+Failed search: 37
+Value: 19897
+<end>
+<begin>
+Failed search: 38
+Value: 19898
+<end>
+<begin>
+Failed search: 39
+Value: 19896
+<end>
+<begin>
+Failed search: 40
+Value: 19897
+<end>
+<begin>
+Failed search: 41
+Value: 19898
+<end>
+<begin>
+Failed search: 42
+Value: 19896
+<end>
+<begin>
+Failed search: 43
+Value: 19899
+<end>
+<begin>
+Failed search: 44
+Value: 19897
+<end>
+<begin>
+Failed search: 45
+Value: 19899
+<end>
+<begin>
+Successful search: 46
+Queens: 192 81 50 86 63 15 94 138 35 129 175 93 75 137 159 57 38 78 151 31 169 146 76 125 8 118 19 42 140 11 128 116 172 132 108 12 1 190 85 22 65 152 68 135 53 74 70 141 88 145 147 20 40 166 77 62 100 21 16 9 26 46 139 91 64 188 195 13 43 153 136 120 109 79 105 154 44 17 143 193 183 156 114 174 103 189 49 158 25 7 157 180 122 10 130 39 41 184 199 0 2 99 162 173 194 186 178 123 181 160 168 112 32 127 47 101 30 90 59 55 119 51 89 176 96 5 182 37 23 133 52 29 102 167 196 106 27 150 3 71 95 191 67 56 165 4 179 149 18 110 33 54 155 80 197 131 24 113 97 164 72 104 111 198 126 185 144 148 83 177 98 87 45 163 121 28 14 115 170 34 66 73 161 134 58 142 107 69 60 36 124 187 6 92 117 84 48 171 82 61 
+Conflicts: 0
+
+queens count: 200
+Total time: 19555ms
+<begin>
+Failed search: 0
+Value: 20097
+<end>
+<begin>
+Failed search: 1
+Value: 20098
+<end>
+<begin>
+Failed search: 2
+Value: 20097
+<end>
+<begin>
+Failed search: 3
+Value: 20097
+<end>
+<begin>
+Successful search: 4
+Queens: 26 159 148 105 0 154 72 198 36 96 83 173 123 163 84 180 97 73 106 78 49 88 35 170 43 120 111 144 19 52 134 136 126 38 6 156 53 143 20 177 28 141 91 44 8 85 5 184 171 74 82 192 63 160 164 47 142 34 68 155 168 4 115 98 178 187 195 183 107 16 31 51 113 3 150 50 71 189 191 99 48 87 10 29 162 137 151 109 146 152 14 182 167 161 118 172 61 42 21 55 133 30 194 145 119 12 15 46 66 40 100 59 67 149 41 179 18 103 175 37 127 200 166 135 45 13 75 77 128 174 190 11 186 147 121 101 70 188 64 185 125 7 9 140 199 58 124 130 81 86 90 153 57 110 32 17 25 165 157 33 79 22 116 27 2 117 23 60 104 158 132 54 181 65 56 69 108 76 138 89 131 197 94 62 122 102 1 39 129 92 193 95 196 24 80 176 112 139 93 169 114 
+Conflicts: 0
+
+queens count: 201
+Total time: 1002.7ms
+<begin>
+Failed search: 0
+Value: 20299
+<end>
+<begin>
+Failed search: 1
+Value: 20299
+<end>
+<begin>
+Failed search: 2
+Value: 20299
+<end>
+<begin>
+Failed search: 3
+Value: 20298
+<end>
+<begin>
+Failed search: 4
+Value: 20298
+<end>
+<begin>
+Failed search: 5
+Value: 20296
+<end>
+<begin>
+Successful search: 6
+Queens: 134 112 197 177 179 158 105 94 109 187 45 28 193 64 144 58 136 88 92 138 16 191 131 26 100 15 185 141 68 155 8 30 135 95 156 160 80 46 12 96 85 38 102 19 173 18 51 192 82 145 198 1 149 69 123 36 106 190 0 161 11 5 70 130 125 83 73 119 93 116 128 7 3 21 164 117 6 201 31 41 146 151 162 71 175 44 122 180 172 115 10 163 53 77 32 118 120 186 90 39 129 20 89 184 37 200 97 189 42 110 188 35 195 169 199 22 55 139 182 174 103 101 111 33 157 72 43 142 148 183 25 159 34 48 2 114 29 167 170 124 178 168 9 4 113 86 60 13 52 23 127 27 63 153 140 176 108 78 133 75 14 67 17 61 54 121 126 47 181 104 165 59 99 166 66 50 65 143 87 91 81 152 76 62 84 57 24 40 194 154 98 137 74 147 107 150 79 56 196 171 132 49 
+Conflicts: 0
+
+queens count: 202
+Total time: 1396.21ms
+<begin>
+Failed search: 0
+Value: 20500
+<end>
+<begin>
+Failed search: 1
+Value: 20499
+<end>
+<begin>
+Failed search: 2
+Value: 20502
+<end>
+<begin>
+Failed search: 3
+Value: 20501
+<end>
+<begin>
+Failed search: 4
+Value: 20499
+<end>
+<begin>
+Failed search: 5
+Value: 20502
+<end>
+<begin>
+Failed search: 6
+Value: 20500
+<end>
+<begin>
+Failed search: 7
+Value: 20501
+<end>
+<begin>
+Failed search: 8
+Value: 20501
+<end>
+<begin>
+Failed search: 9
+Value: 20500
+<end>
+<begin>
+Failed search: 10
+Value: 20499
+<end>
+<begin>
+Failed search: 11
+Value: 20500
+<end>
+<begin>
+Failed search: 12
+Value: 20501
+<end>
+<begin>
+Failed search: 13
+Value: 20501
+<end>
+<begin>
+Failed search: 14
+Value: 20501
+<end>
+<begin>
+Successful search: 15
+Queens: 113 137 89 147 116 96 64 166 177 88 148 36 111 50 78 193 43 118 69 130 183 171 45 83 70 10 46 133 112 107 39 123 100 181 175 182 16 94 108 87 59 136 33 158 120 122 38 106 173 180 57 86 67 28 126 145 95 184 188 140 26 49 72 163 119 60 169 23 142 135 12 192 117 199 191 73 0 138 15 198 81 178 84 29 37 109 41 125 190 27 179 31 124 11 68 22 201 91 202 98 76 197 63 153 74 40 186 104 79 20 139 30 18 176 189 121 2 134 6 101 128 152 47 164 103 155 160 48 195 13 9 21 25 85 62 187 8 82 115 172 102 90 56 127 131 156 93 34 99 53 32 4 196 92 52 24 129 161 5 185 165 174 51 71 167 75 194 19 149 110 159 54 144 17 132 168 61 14 200 157 114 146 150 1 170 77 80 151 44 35 105 154 3 162 97 65 58 55 141 143 7 66 42 
+Conflicts: 0
+
+queens count: 203
+Total time: 3618.18ms
+<begin>
+Failed search: 0
+Value: 20704
+<end>
+<begin>
+Failed search: 1
+Value: 20701
+<end>
+<begin>
+Failed search: 2
+Value: 20704
+<end>
+<begin>
+Failed search: 3
+Value: 20703
+<end>
+<begin>
+Failed search: 4
+Value: 20702
+<end>
+<begin>
+Failed search: 5
+Value: 20703
+<end>
+<begin>
+Failed search: 6
+Value: 20702
+<end>
+<begin>
+Failed search: 7
+Value: 20705
+<end>
+<begin>
+Failed search: 8
+Value: 20704
+<end>
+<begin>
+Failed search: 9
+Value: 20701
+<end>
+<begin>
+Failed search: 10
+Value: 20703
+<end>
+<begin>
+Failed search: 11
+Value: 20703
+<end>
+<begin>
+Failed search: 12
+Value: 20704
+<end>
+<begin>
+Failed search: 13
+Value: 20699
+<end>
+<begin>
+Failed search: 14
+Value: 20701
+<end>
+<begin>
+Failed search: 15
+Value: 20704
+<end>
+<begin>
+Failed search: 16
+Value: 20703
+<end>
+<begin>
+Failed search: 17
+Value: 20700
+<end>
+<begin>
+Failed search: 18
+Value: 20702
+<end>
+<begin>
+Failed search: 19
+Value: 20704
+<end>
+<begin>
+Failed search: 20
+Value: 20701
+<end>
+<begin>
+Failed search: 21
+Value: 20704
+<end>
+<begin>
+Failed search: 22
+Value: 20703
+<end>
+<begin>
+Failed search: 23
+Value: 20703
+<end>
+<begin>
+Failed search: 24
+Value: 20703
+<end>
+<begin>
+Failed search: 25
+Value: 20703
+<end>
+<begin>
+Failed search: 26
+Value: 20704
+<end>
+<begin>
+Failed search: 27
+Value: 20702
+<end>
+<begin>
+Failed search: 28
+Value: 20702
+<end>
+<begin>
+Failed search: 29
+Value: 20703
+<end>
+<begin>
+Failed search: 30
+Value: 20700
+<end>
+<begin>
+Failed search: 31
+Value: 20704
+<end>
+<begin>
+Failed search: 32
+Value: 20704
+<end>
+<begin>
+Failed search: 33
+Value: 20701
+<end>
+<begin>
+Failed search: 34
+Value: 20705
+<end>
+<begin>
+Failed search: 35
+Value: 20704
+<end>
+<begin>
+Failed search: 36
+Value: 20702
+<end>
+<begin>
+Failed search: 37
+Value: 20702
+<end>
+<begin>
+Failed search: 38
+Value: 20704
+<end>
+<begin>
+Failed search: 39
+Value: 20702
+<end>
+<begin>
+Failed search: 40
+Value: 20700
+<end>
+<begin>
+Failed search: 41
+Value: 20703
+<end>
+<begin>
+Failed search: 42
+Value: 20702
+<end>
+<begin>
+Failed search: 43
+Value: 20703
+<end>
+<begin>
+Failed search: 44
+Value: 20703
+<end>
+<begin>
+Failed search: 45
+Value: 20704
+<end>
+<begin>
+Failed search: 46
+Value: 20704
+<end>
+<begin>
+Failed search: 47
+Value: 20705
+<end>
+<begin>
+Failed search: 48
+Value: 20702
+<end>
+<begin>
+Failed search: 49
+Value: 20702
+<end>
+<begin>
+Failed search: 50
+Value: 20702
+<end>
+<begin>
+Failed search: 51
+Value: 20702
+<end>
+<begin>
+Failed search: 52
+Value: 20704
+<end>
+<begin>
+Failed search: 53
+Value: 20702
+<end>
+<begin>
+Failed search: 54
+Value: 20704
+<end>
+<begin>
+Failed search: 55
+Value: 20702
+<end>
+<begin>
+Failed search: 56
+Value: 20704
+<end>
+<begin>
+Failed search: 57
+Value: 20702
+<end>
+<begin>
+Failed search: 58
+Value: 20705
+<end>
+<begin>
+Failed search: 59
+Value: 20704
+<end>
+<begin>
+Failed search: 60
+Value: 20704
+<end>
+<begin>
+Failed search: 61
+Value: 20700
+<end>
+<begin>
+Failed search: 62
+Value: 20704
+<end>
+<begin>
+Failed search: 63
+Value: 20700
+<end>
+<begin>
+Failed search: 64
+Value: 20704
+<end>
+<begin>
+Failed search: 65
+Value: 20704
+<end>
+<begin>
+Failed search: 66
+Value: 20704
+<end>
+<begin>
+Failed search: 67
+Value: 20703
+<end>
+<begin>
+Failed search: 68
+Value: 20702
+<end>
+<begin>
+Failed search: 69
+Value: 20703
+<end>
+<begin>
+Failed search: 70
+Value: 20701
+<end>
+<begin>
+Failed search: 71
+Value: 20702
+<end>
+<begin>
+Failed search: 72
+Value: 20702
+<end>
+<begin>
+Failed search: 73
+Value: 20705
+<end>
+<begin>
+Failed search: 74
+Value: 20702
+<end>
+<begin>
+Failed search: 75
+Value: 20702
+<end>
+<begin>
+Failed search: 76
+Value: 20703
+<end>
+<begin>
+Failed search: 77
+Value: 20703
+<end>
+<begin>
+Failed search: 78
+Value: 20703
+<end>
+<begin>
+Failed search: 79
+Value: 20704
+<end>
+<begin>
+Failed search: 80
+Value: 20702
+<end>
+<begin>
+Failed search: 81
+Value: 20704
+<end>
+<begin>
+Failed search: 82
+Value: 20702
+<end>
+<begin>
+Failed search: 83
+Value: 20704
+<end>
+<begin>
+Failed search: 84
+Value: 20704
+<end>
+<begin>
+Successful search: 85
+Queens: 159 154 63 52 201 64 46 87 105 102 170 189 107 181 29 137 200 118 185 18 101 104 98 140 60 81 28 6 120 53 153 93 27 144 65 95 3 54 24 151 130 22 39 129 148 2 186 43 121 152 149 198 173 61 111 164 85 90 21 30 1 75 100 196 14 86 180 131 123 97 34 162 115 138 128 122 172 83 150 67 157 73 44 49 4 12 26 71 193 124 192 42 35 10 114 184 72 110 0 197 169 175 112 19 41 146 11 16 156 40 32 163 66 25 47 203 182 76 176 77 62 139 7 134 94 9 179 23 58 8 167 136 195 158 70 50 116 51 36 126 33 113 103 177 188 168 38 82 125 191 56 183 91 199 99 89 59 142 84 5 187 155 17 13 194 69 135 68 79 57 161 117 37 133 15 96 174 132 190 108 202 80 45 166 109 160 31 143 141 178 48 119 92 171 74 127 106 78 145 147 165 20 88 55 
+Conflicts: 0
+
+queens count: 204
+Total time: 38230.8ms
+<begin>
+Failed search: 0
+Value: 20906
+<end>
+<begin>
+Failed search: 1
+Value: 20907
+<end>
+<begin>
+Successful search: 2
+Queens: 95 148 129 113 27 70 68 48 82 51 53 118 114 26 119 178 202 111 67 74 195 122 102 180 103 94 71 123 20 30 83 40 167 149 107 186 56 98 158 109 124 91 130 87 136 142 177 6 196 189 18 181 156 135 57 45 110 150 166 188 175 93 43 146 121 75 4 29 1 128 182 184 16 14 10 151 13 32 112 116 38 42 172 69 61 194 31 92 19 72 22 76 55 49 66 79 131 54 204 0 21 97 168 143 155 100 191 3 137 35 12 169 183 52 78 192 141 39 28 134 176 152 46 190 163 50 115 101 154 5 198 73 140 171 37 108 200 80 201 199 23 36 59 41 120 17 96 159 88 24 138 157 106 58 15 2 60 34 64 126 90 185 179 162 84 47 144 164 8 33 104 63 170 139 161 145 127 62 105 193 9 25 89 11 133 160 132 147 81 44 99 173 86 7 187 174 85 125 77 203 165 153 65 197 117 
+Conflicts: 0
+
+queens count: 205
+Total time: 696.346ms
+<begin>
+Failed search: 0
+Value: 21113
+<end>
+<begin>
+Failed search: 1
+Value: 21112
+<end>
+<begin>
+Failed search: 2
+Value: 21112
+<end>
+<begin>
+Failed search: 3
+Value: 21111
+<end>
+<begin>
+Failed search: 4
+Value: 21113
+<end>
+<begin>
+Failed search: 5
+Value: 21112
+<end>
+<begin>
+Failed search: 6
+Value: 21113
+<end>
+<begin>
+Failed search: 7
+Value: 21114
+<end>
+<begin>
+Failed search: 8
+Value: 21112
+<end>
+<begin>
+Failed search: 9
+Value: 21111
+<end>
+<begin>
+Failed search: 10
+Value: 21113
+<end>
+<begin>
+Failed search: 11
+Value: 21113
+<end>
+<begin>
+Failed search: 12
+Value: 21110
+<end>
+<begin>
+Failed search: 13
+Value: 21112
+<end>
+<begin>
+Failed search: 14
+Value: 21113
+<end>
+<begin>
+Failed search: 15
+Value: 21113
+<end>
+<begin>
+Failed search: 16
+Value: 21114
+<end>
+<begin>
+Failed search: 17
+Value: 21112
+<end>
+<begin>
+Failed search: 18
+Value: 21112
+<end>
+<begin>
+Failed search: 19
+Value: 21112
+<end>
+<begin>
+Failed search: 20
+Value: 21113
+<end>
+<begin>
+Failed search: 21
+Value: 21110
+<end>
+<begin>
+Failed search: 22
+Value: 21114
+<end>
+<begin>
+Failed search: 23
+Value: 21111
+<end>
+<begin>
+Failed search: 24
+Value: 21112
+<end>
+<begin>
+Failed search: 25
+Value: 21114
+<end>
+<begin>
+Failed search: 26
+Value: 21113
+<end>
+<begin>
+Failed search: 27
+Value: 21112
+<end>
+<begin>
+Failed search: 28
+Value: 21112
+<end>
+<begin>
+Failed search: 29
+Value: 21112
+<end>
+<begin>
+Failed search: 30
+Value: 21111
+<end>
+<begin>
+Failed search: 31
+Value: 21113
+<end>
+<begin>
+Failed search: 32
+Value: 21114
+<end>
+<begin>
+Failed search: 33
+Value: 21112
+<end>
+<begin>
+Failed search: 34
+Value: 21113
+<end>
+<begin>
+Failed search: 35
+Value: 21111
+<end>
+<begin>
+Failed search: 36
+Value: 21108
+<end>
+<begin>
+Failed search: 37
+Value: 21113
+<end>
+<begin>
+Failed search: 38
+Value: 21113
+<end>
+<begin>
+Failed search: 39
+Value: 21112
+<end>
+<begin>
+Failed search: 40
+Value: 21112
+<end>
+<begin>
+Failed search: 41
+Value: 21113
+<end>
+<begin>
+Failed search: 42
+Value: 21112
+<end>
+<begin>
+Failed search: 43
+Value: 21113
+<end>
+<begin>
+Failed search: 44
+Value: 21113
+<end>
+<begin>
+Failed search: 45
+Value: 21112
+<end>
+<begin>
+Failed search: 46
+Value: 21113
+<end>
+<begin>
+Failed search: 47
+Value: 21113
+<end>
+<begin>
+Failed search: 48
+Value: 21111
+<end>
+<begin>
+Failed search: 49
+Value: 21112
+<end>
+<begin>
+Successful search: 50
+Queens: 138 195 127 100 131 32 169 12 166 95 69 150 122 3 13 193 46 55 141 109 104 183 192 87 65 181 92 121 163 129 198 88 184 197 60 19 101 140 36 134 28 47 43 34 136 81 96 168 170 145 52 120 39 10 186 113 74 30 151 91 178 54 205 126 35 33 180 50 111 148 115 152 147 177 159 15 31 165 14 48 42 16 155 17 200 190 86 67 189 112 53 107 153 114 176 173 24 125 123 161 97 0 63 8 128 44 7 45 25 118 144 167 90 98 158 40 83 154 171 22 61 66 135 89 196 160 103 204 179 11 26 201 174 62 76 58 175 102 38 143 4 59 157 70 199 2 18 79 72 37 162 27 110 139 187 5 203 188 73 105 23 9 99 6 20 137 1 21 132 82 77 191 182 117 130 194 29 75 108 57 133 156 164 41 64 202 80 71 56 149 51 142 84 185 49 85 146 106 124 94 119 68 172 78 93 116 
+Conflicts: 0
+
+queens count: 206
+Total time: 21016.8ms
+<begin>
+Failed search: 0
+Value: 21318
+<end>
+<begin>
+Failed search: 1
+Value: 21320
+<end>
+<begin>
+Failed search: 2
+Value: 21319
+<end>
+<begin>
+Failed search: 3
+Value: 21320
+<end>
+<begin>
+Failed search: 4
+Value: 21319
+<end>
+<begin>
+Failed search: 5
+Value: 21318
+<end>
+<begin>
+Failed search: 6
+Value: 21318
+<end>
+<begin>
+Failed search: 7
+Value: 21319
+<end>
+<begin>
+Failed search: 8
+Value: 21317
+<end>
+<begin>
+Failed search: 9
+Value: 21317
+<end>
+<begin>
+Failed search: 10
+Value: 21319
+<end>
+<begin>
+Failed search: 11
+Value: 21318
+<end>
+<begin>
+Failed search: 12
+Value: 21317
+<end>
+<begin>
+Failed search: 13
+Value: 21318
+<end>
+<begin>
+Failed search: 14
+Value: 21319
+<end>
+<begin>
+Failed search: 15
+Value: 21319
+<end>
+<begin>
+Failed search: 16
+Value: 21318
+<end>
+<begin>
+Failed search: 17
+Value: 21317
+<end>
+<begin>
+Failed search: 18
+Value: 21318
+<end>
+<begin>
+Failed search: 19
+Value: 21317
+<end>
+<begin>
+Failed search: 20
+Value: 21318
+<end>
+<begin>
+Successful search: 21
+Queens: 125 116 61 162 107 137 87 102 75 14 96 164 170 8 23 92 191 156 38 59 84 113 152 44 171 93 76 5 124 40 193 12 129 18 200 119 197 202 128 139 146 54 94 47 33 78 133 53 196 153 89 82 108 52 95 73 56 123 16 182 34 189 198 51 15 144 101 13 179 103 45 142 166 11 183 112 72 203 90 104 173 43 135 27 1 127 2 148 70 159 9 117 4 158 37 32 55 155 130 63 22 68 175 97 39 165 150 190 163 7 28 21 98 24 122 178 185 145 17 25 91 195 77 3 74 149 58 141 206 30 168 85 60 180 188 35 19 67 131 81 31 48 172 186 110 69 10 192 205 41 99 114 79 199 176 26 29 160 177 100 64 36 65 115 143 201 181 62 151 71 167 105 46 138 121 57 132 106 154 88 42 204 118 80 174 187 20 50 157 134 6 111 169 161 147 120 49 136 83 86 140 109 194 0 184 126 66 
+Conflicts: 0
+
+queens count: 207
+Total time: 7948.91ms
+<begin>
+Successful search: 0
+Queens: 198 127 145 111 77 190 56 163 132 34 199 50 101 114 63 71 185 78 164 30 137 175 203 49 28 6 165 125 122 22 129 110 62 40 140 193 172 45 41 35 128 14 171 176 204 3 59 152 183 81 161 39 96 32 108 79 73 99 120 130 95 177 84 106 119 57 53 51 200 153 123 146 191 113 160 29 12 7 182 44 143 10 148 20 118 82 196 92 33 0 52 90 15 169 21 69 64 48 26 195 157 134 149 13 174 197 173 66 25 94 179 74 103 136 83 121 76 37 192 91 207 55 17 135 188 18 61 187 159 8 151 167 133 42 206 9 2 70 102 38 80 139 23 181 144 88 58 16 142 158 68 166 93 97 205 184 202 194 186 31 86 19 4 43 147 155 105 109 117 75 156 124 60 189 47 67 36 11 27 5 141 89 87 72 131 107 162 85 168 178 115 201 116 1 65 98 100 112 180 54 138 46 104 170 150 24 154 126 
+Conflicts: 0
+
+queens count: 208
+Total time: 269.047ms
+<begin>
+Failed search: 0
+Value: 21733
+<end>
+<begin>
+Failed search: 1
+Value: 21734
+<end>
+<begin>
+Failed search: 2
+Value: 21731
+<end>
+<begin>
+Failed search: 3
+Value: 21733
+<end>
+<begin>
+Failed search: 4
+Value: 21734
+<end>
+<begin>
+Failed search: 5
+Value: 21732
+<end>
+<begin>
+Failed search: 6
+Value: 21734
+<end>
+<begin>
+Failed search: 7
+Value: 21733
+<end>
+<begin>
+Failed search: 8
+Value: 21730
+<end>
+<begin>
+Failed search: 9
+Value: 21732
+<end>
+<begin>
+Failed search: 10
+Value: 21733
+<end>
+<begin>
+Failed search: 11
+Value: 21734
+<end>
+<begin>
+Failed search: 12
+Value: 21733
+<end>
+<begin>
+Failed search: 13
+Value: 21733
+<end>
+<begin>
+Failed search: 14
+Value: 21735
+<end>
+<begin>
+Failed search: 15
+Value: 21731
+<end>
+<begin>
+Failed search: 16
+Value: 21732
+<end>
+<begin>
+Failed search: 17
+Value: 21735
+<end>
+<begin>
+Failed search: 18
+Value: 21730
+<end>
+<begin>
+Failed search: 19
+Value: 21732
+<end>
+<begin>
+Failed search: 20
+Value: 21733
+<end>
+<begin>
+Failed search: 21
+Value: 21734
+<end>
+<begin>
+Failed search: 22
+Value: 21734
+<end>
+<begin>
+Failed search: 23
+Value: 21733
+<end>
+<begin>
+Failed search: 24
+Value: 21732
+<end>
+<begin>
+Failed search: 25
+Value: 21733
+<end>
+<begin>
+Failed search: 26
+Value: 21735
+<end>
+<begin>
+Failed search: 27
+Value: 21733
+<end>
+<begin>
+Failed search: 28
+Value: 21733
+<end>
+<begin>
+Successful search: 29
+Queens: 42 201 104 40 151 146 15 204 166 27 92 1 208 16 81 47 108 50 76 63 113 29 5 109 159 100 200 123 53 44 134 45 61 103 80 37 197 140 48 89 152 68 187 20 105 51 38 156 173 138 107 62 8 87 75 106 18 70 126 78 182 7 114 125 57 175 23 147 191 21 185 154 58 14 145 149 41 206 131 52 128 169 33 168 192 54 6 194 116 124 162 19 28 72 9 71 97 196 193 99 160 199 171 98 170 127 90 183 163 49 148 11 155 3 198 202 94 2 177 24 79 101 203 66 129 181 55 167 10 56 88 118 102 130 36 176 46 119 30 77 12 32 165 141 161 112 120 0 64 137 4 86 17 22 13 179 195 121 184 82 207 74 35 117 31 150 111 115 39 25 190 178 73 164 91 205 142 189 172 85 59 67 186 143 180 174 157 83 110 34 158 144 69 96 60 93 135 139 122 133 43 95 26 153 65 136 132 188 84 
+Conflicts: 0
+
+queens count: 209
+Total time: 11967.3ms
+<begin>
+Failed search: 0
+Value: 21941
+<end>
+<begin>
+Failed search: 1
+Value: 21944
+<end>
+<begin>
+Failed search: 2
+Value: 21943
+<end>
+<begin>
+Failed search: 3
+Value: 21944
+<end>
+<begin>
+Failed search: 4
+Value: 21942
+<end>
+<begin>
+Failed search: 5
+Value: 21941
+<end>
+<begin>
+Failed search: 6
+Value: 21944
+<end>
+<begin>
+Failed search: 7
+Value: 21941
+<end>
+<begin>
+Failed search: 8
+Value: 21942
+<end>
+<begin>
+Failed search: 9
+Value: 21943
+<end>
+<begin>
+Failed search: 10
+Value: 21942
+<end>
+<begin>
+Failed search: 11
+Value: 21943
+<end>
+<begin>
+Failed search: 12
+Value: 21944
+<end>
+<begin>
+Failed search: 13
+Value: 21944
+<end>
+<begin>
+Failed search: 14
+Value: 21942
+<end>
+<begin>
+Failed search: 15
+Value: 21941
+<end>
+<begin>
+Failed search: 16
+Value: 21943
+<end>
+<begin>
+Failed search: 17
+Value: 21940
+<end>
+<begin>
+Failed search: 18
+Value: 21943
+<end>
+<begin>
+Failed search: 19
+Value: 21941
+<end>
+<begin>
+Failed search: 20
+Value: 21944
+<end>
+<begin>
+Failed search: 21
+Value: 21942
+<end>
+<begin>
+Failed search: 22
+Value: 21942
+<end>
+<begin>
+Failed search: 23
+Value: 21943
+<end>
+<begin>
+Failed search: 24
+Value: 21943
+<end>
+<begin>
+Failed search: 25
+Value: 21940
+<end>
+<begin>
+Failed search: 26
+Value: 21944
+<end>
+<begin>
+Failed search: 27
+Value: 21943
+<end>
+<begin>
+Failed search: 28
+Value: 21944
+<end>
+<begin>
+Failed search: 29
+Value: 21941
+<end>
+<begin>
+Failed search: 30
+Value: 21943
+<end>
+<begin>
+Failed search: 31
+Value: 21944
+<end>
+<begin>
+Failed search: 32
+Value: 21941
+<end>
+<begin>
+Failed search: 33
+Value: 21941
+<end>
+<begin>
+Failed search: 34
+Value: 21941
+<end>
+<begin>
+Failed search: 35
+Value: 21941
+<end>
+<begin>
+Failed search: 36
+Value: 21938
+<end>
+<begin>
+Failed search: 37
+Value: 21944
+<end>
+<begin>
+Failed search: 38
+Value: 21941
+<end>
+<begin>
+Failed search: 39
+Value: 21942
+<end>
+<begin>
+Failed search: 40
+Value: 21942
+<end>
+<begin>
+Failed search: 41
+Value: 21941
+<end>
+<begin>
+Failed search: 42
+Value: 21941
+<end>
+<begin>
+Failed search: 43
+Value: 21942
+<end>
+<begin>
+Failed search: 44
+Value: 21943
+<end>
+<begin>
+Failed search: 45
+Value: 21943
+<end>
+<begin>
+Failed search: 46
+Value: 21942
+<end>
+<begin>
+Failed search: 47
+Value: 21941
+<end>
+<begin>
+Failed search: 48
+Value: 21943
+<end>
+<begin>
+Failed search: 49
+Value: 21942
+<end>
+<begin>
+Failed search: 50
+Value: 21943
+<end>
+<begin>
+Failed search: 51
+Value: 21941
+<end>
+<begin>
+Failed search: 52
+Value: 21942
+<end>
+<begin>
+Failed search: 53
+Value: 21942
+<end>
+<begin>
+Failed search: 54
+Value: 21940
+<end>
+<begin>
+Failed search: 55
+Value: 21938
+<end>
+<begin>
+Failed search: 56
+Value: 21942
+<end>
+<begin>
+Failed search: 57
+Value: 21942
+<end>
+<begin>
+Failed search: 58
+Value: 21941
+<end>
+<begin>
+Failed search: 59
+Value: 21943
+<end>
+<begin>
+Failed search: 60
+Value: 21944
+<end>
+<begin>
+Failed search: 61
+Value: 21943
+<end>
+<begin>
+Failed search: 62
+Value: 21943
+<end>
+<begin>
+Failed search: 63
+Value: 21944
+<end>
+<begin>
+Failed search: 64
+Value: 21943
+<end>
+<begin>
+Failed search: 65
+Value: 21942
+<end>
+<begin>
+Failed search: 66
+Value: 21942
+<end>
+<begin>
+Failed search: 67
+Value: 21943
+<end>
+<begin>
+Failed search: 68
+Value: 21940
+<end>
+<begin>
+Failed search: 69
+Value: 21944
+<end>
+<begin>
+Failed search: 70
+Value: 21944
+<end>
+<begin>
+Failed search: 71
+Value: 21943
+<end>
+<begin>
+Failed search: 72
+Value: 21942
+<end>
+<begin>
+Failed search: 73
+Value: 21943
+<end>
+<begin>
+Failed search: 74
+Value: 21943
+<end>
+<begin>
+Failed search: 75
+Value: 21944
+<end>
+<begin>
+Failed search: 76
+Value: 21940
+<end>
+<begin>
+Failed search: 77
+Value: 21943
+<end>
+<begin>
+Successful search: 78
+Queens: 167 85 94 148 15 43 32 109 170 40 52 169 125 78 76 181 197 89 121 172 196 1 168 102 84 177 93 68 71 145 135 26 65 25 149 29 36 98 91 187 180 70 113 144 117 104 21 151 192 56 63 158 184 75 47 205 138 101 139 179 74 10 204 191 92 61 106 115 14 178 195 50 59 3 174 193 134 176 152 129 190 120 30 209 0 173 175 142 16 183 166 77 143 67 130 188 153 208 48 87 42 83 41 4 73 12 64 69 19 11 108 146 111 162 90 200 31 133 164 202 123 207 28 203 154 194 96 13 206 9 23 140 105 60 157 24 53 27 163 80 35 7 103 62 18 201 54 5 150 46 81 159 171 20 122 182 55 95 49 136 107 66 72 126 198 185 119 112 44 34 127 137 124 6 189 88 160 8 161 2 114 33 147 155 22 79 100 38 58 110 51 131 128 97 39 118 116 186 57 82 156 99 86 132 17 165 45 37 141 199 
+Conflicts: 0
+
+queens count: 210
+Total time: 42139.5ms

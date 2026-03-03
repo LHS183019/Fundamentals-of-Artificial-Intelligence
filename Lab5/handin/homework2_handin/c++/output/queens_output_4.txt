@@ -1,0 +1,126 @@
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 200
+Total time: 357.261ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 201
+Total time: 240.829ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 202
+Total time: 274.62ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 203
+Total time: 1195.03ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 204
+Total time: 265.954ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 205
+Total time: 216.156ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 206
+Total time: 332.13ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 207
+Total time: 10106.6ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 208
+Total time: 621.375ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 209
+Total time: 636.933ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 210
+Total time: 3770.19ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 211
+Total time: 210.472ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 212
+Total time: 334.369ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 213
+Total time: 34039.2ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 214
+Total time: 410.295ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 215
+Total time: 217.95ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 216
+Total time: 374.444ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 217
+Total time: 388.203ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 218
+Total time: 1227.64ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 219
+Total time: 14776.3ms
+<begin>
+Successful search: 0
+Value: 1
+<end>
+queens count: 220
+Total time: 403.024ms
